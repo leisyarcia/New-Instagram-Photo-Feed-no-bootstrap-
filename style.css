@@ -1,8 +1,8 @@
 body{
 	font-family: Helvetica;
     font-weight: 100;
-    background: rgb(21,214,140);
-    background: linear-gradient(90deg, rgba(21,214,140,1) 21%, rgba(41,46,45,1) 98%);
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 29%, rgba(0,212,255,1) 100%);
     margin:0;
     padding: 0;
 }
